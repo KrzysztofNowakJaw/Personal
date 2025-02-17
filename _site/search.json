@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "Technologies.html",
+    "href": "Technologies.html",
+    "title": "Tech Stack",
+    "section": "",
+    "text": "I’ve worked with many tools over the course of my several-year career, but two have made a particular mark on my professional experience and education: Alteryx and the R language.\n\nAlteryxR\n\n\nAlteryx is low code platform designed to perform ETL process\n\n\nR is programming languages designed for statistics and graphics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Krzysztof Nowak",
+    "section": "",
+    "text": "Welcome to my personal site. My name is Krzysztof Nowak, I’m a data professional and on this site you will find information about my interests that I deal with on a daily basis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Krzysztof Nowak",
+    "section": "",
+    "text": "For the past few years, I have been supporting finance professionals by providing automation solutions for their data workflows. My primary focus has been on the Alteryx platform, Power BI, and the R programming language.\n\nCurrently, I work as an Alteryx Consultant at Data Pal, an Official Alteryx Partner offering specialized Alteryx consulting and training services. We specialize in data analysis, digital transformation, and delivering solutions within the Alteryx platform, where we assist other businesses in automating their processes.\n\nIn 2024, I started a postgraduate program in Machine Learning at the University of Economics in Katowice, Poland, to expand my skills in data science and AI.\n\nWhat I focus on?\n✔ Data Automation & Workflow Optimization\n✔ Alteryx & Power BI for Finance & Business Intelligence\n✔ Machine Learning & Data Analysis\n✔ Business Process Improvement"
+  },
+  {
+    "objectID": "about.html#contact-details",
+    "href": "about.html#contact-details",
+    "title": "About",
+    "section": "Contact details",
+    "text": "Contact details"
+  },
+  {
+    "objectID": "Technologies.html#education",
+    "href": "Technologies.html#education",
+    "title": "Krzysztof Nowak",
+    "section": "Education",
+    "text": "Education\nUniversity of Economics in Katowice | Katowice, Poland\nPostgraduate studies in Machine Learning and Data Science | Nov 2025 - current\nWSB University | Dąbrowa Górnicza, Poland B.A in Economics | Sept 2016 - June 2019"
+  },
+  {
+    "objectID": "Technologies.html#experience",
+    "href": "Technologies.html#experience",
+    "title": "Krzysztof Nowak",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "Krzysztof Nowak",
+    "section": "",
+    "text": "For the past few years, I have been supporting finance professionals by providing automation solutions for their data workflows. My primary focus has been on the Alteryx platform, Power BI, and the R programming language.\n\nCurrently, I work as an Alteryx Consultant at Data Pal, an Official Alteryx Partner offering specialized Alteryx consulting and training services. We specialize in data analysis, digital transformation, and delivering solutions within the Alteryx platform, where we assist other businesses in automating their processes.\n\nIn 2024, I started a postgraduate program in Machine Learning at the University of Economics in Katowice, Poland, to expand my skills in data science and AI.\n\nWhat I focus on?\n✔ Data Automation & Workflow Optimization\n✔ Alteryx & Power BI for Finance & Business Intelligence\n✔ Machine Learning & Data Analysis\n✔ Business Process Improvement"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Krzysztof Nowak",
+    "section": "Education",
+    "text": "Education\nUniversity of Economics in Katowice | Katowice, Poland\nPostgraduate studies in Machine Learning and Data Science | Nov 2025 - current\nWSB University | DG, Poland B.A in Economics | Sept 2016 - June 2019"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Krzysztof Nowak",
+    "section": "Experience",
+    "text": "Experience\nData Pal | Alteryx Consultant\nData Pal is a consulting company that helps and guides other organizations along their analytical journey.\n\nDeveloping custom Alteryx solutions to help clients automate processes and optimize workflows - Creating training materials to help users learn and get the most out of Alteryx\nResearching industry trends, including AI integrations, to stay ahead of new technologies and best practices in data automation\n\nTools: Alteryx, Power BI, Power Automate\nTMF GROUP | Senior Automation Analyst\nJan 2022 – Dec 2024\nI implemented automation solutions for various departments, focusing on accounting and financial operations. My work helped improve how data was handled in critical areas, including: - Payroll: Automated processes, reducing errors and saving time.\n\nFinancial Reporting: Built workflows for faster and more accurate reporting.\nCorporate Reporting: Improved the quality and accessibility of data insights.\nAccounts Payable/Receivable: Improved accuracy in transaction management.\n\nTools: Alteryx, Power BI, MS Excel, SQL, Power Automate\n\nUBS | Reporting specialist\nNov 2020 – Dec 2021\n\nVerification of transaction reports for compliance with regulations\nProcess automation with Alteryx Platform\n\nTools: Alteryx, MS Excel\nState Street, Investor Services Reporting Associate\nApr 2019 – Oct 2020\nCreating KPIs for investment funds Responding to queries from investment funds using data obtained with SQL language\nTools: SQL, VBA, MS Excel, MS Access"
+  }
+]

@@ -1,0 +1,16 @@
+---
+title: "Tech Stack"
+::: {.panel-tabset .nav-pills}
+---
+
+I've worked with many tools over the course of my several-year career, but two have made a particular mark on my professional experience and education: Alteryx and the R language.
+
+::: {#Alteryx .panel-tabset .nav-pills}
+## Alteryx
+
+Alteryx is low code platform designed to perform ETL process
+
+## R
+
+R is programming languages designed for statistics and graphics
+:::

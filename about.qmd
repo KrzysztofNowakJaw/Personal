@@ -1,0 +1,87 @@
+---
+title: "Krzysztof Nowak"
+toc: true
+toc-title: "Content"
+toc-location: right
+about:
+  id: hero-heading
+  template: trestles
+  image: fot.jpg
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/krzysztofnowakdata/
+    - icon: github
+      text: Github
+      href: github.com/KrzysztofNowakJaw
+    - icon: brush
+      text: Blog
+      href: https://medium.com/@krzysieknowak_55470
+---
+
+## Summary
+
+For the past few years, I have been supporting finance professionals by providing automation solutions for their data workflows. My primary focus has been on the Alteryx platform, Power BI, and the R programming language.\
+\
+Currently, I work as an Alteryx Consultant at Data Pal, an Official Alteryx Partner offering specialized Alteryx consulting and training services. We specialize in data analysis, digital transformation, and delivering solutions within the Alteryx platform, where we assist other businesses in automating their processes.\
+\
+In 2024, I started a postgraduate program in Machine Learning at the University of Economics in Katowice, Poland, to expand my skills in data science and AI.\
+\
+What I focus on?\
+✔ Data Automation & Workflow Optimization\
+✔ Alteryx & Power BI for Finance & Business Intelligence\
+✔ Machine Learning & Data Analysis\
+✔ Business Process Improvement
+
+## Education
+
+University of Economics in Katowice \| Katowice, Poland\
+Postgraduate studies in Machine Learning and Data Science \| Nov 2025 - current
+
+WSB University \| DG, Poland B.A in Economics \| Sept 2016 - June 2019
+
+## Experience
+
+**Data Pal \| Alteryx Consultant**
+
+Data Pal is a consulting company that helps and guides other organizations along their analytical journey.
+
+-   Developing custom Alteryx solutions to help clients automate processes and optimize workflows - Creating training materials to help users learn and get the most out of Alteryx
+-   Researching industry trends, including AI integrations, to stay ahead of new technologies and best practices in data automation
+
+**Tools:** Alteryx, Power BI, Power Automate
+
+**TMF GROUP \| Senior Automation Analyst**
+
+Jan 2022 -- Dec 2024
+
+I implemented automation solutions for various departments, focusing on accounting and financial operations. My work helped improve how data was handled in critical areas, including: - Payroll: Automated processes, reducing errors and saving time.
+
+-   Financial Reporting: Built workflows for faster and more accurate reporting.
+
+-   Corporate Reporting: Improved the quality and accessibility of data insights.
+
+-   Accounts Payable/Receivable: Improved accuracy in transaction management.
+
+**Tools:** Alteryx, Power BI, MS Excel, SQL, Power Automate
+
+------------------------------------------------------------------------
+
+**UBS \| Reporting specialist**
+
+Nov 2020 -- Dec 2021
+
+-   Verification of transaction reports for compliance with regulations
+-   Process automation with Alteryx Platform
+
+**Tools:** Alteryx, MS Excel
+
+**State Street, Investor Services Reporting Associate**
+
+Apr 2019 -- Oct 2020
+
+Creating KPIs for investment funds Responding to queries from investment funds using data obtained with SQL language
+
+**Tools:** SQL, VBA, MS Excel, MS Access

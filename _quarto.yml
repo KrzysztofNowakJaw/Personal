@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Krzysztof Nowak"
+  navbar:
+    left:
+      #- text: "Home"
+       # href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Technologies"
+        href: Technologies.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://code.com
+          - text: Report a Bug
+            href: https://bugs.com
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
